@@ -6,8 +6,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/tushar-garg-65663b190/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/Assassin7711/" title="Leetcode Profile"><img width="22" src="images/leetcode.svg"> Leetcode</a></code>
+    <a href="https://www.linkedin.com/in/tushar-garg-65663b190/" title="LinkedIn Profile"><img width="22" src="icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/Assassin7711/" title="Leetcode Profile"><img width="22" src="icons/leetcode.svg"> Leetcode</a></code>
 </h5>
 <br>
 <p align="center">
@@ -28,26 +28,26 @@
 <h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Material UI" height="25" src="images/materialui.svg"></code>
-  <code><img title="NodeJS" height="25" src="images/nodejs.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Nodemon" height="25" src="images/nodemon.svg"></code>
-  <code><img title="Express" height="25" src="images/express.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="C" height="25" src="icons/c.svg"></code>
+  <code><img title="C++" height="25" src="icons/cpp.svg"></code>
+  <code><img title="Python" height="25" src="icons/python-original.svg"></code>
+  <code><img title="Problem Solving" height="25" src="icons/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="icons/html5.svg"></code>
+  <code><img title="CSS" height="25" src="icons/css.svg"></code>
+  <code><img title="Bootstrap" height="25" src="icons/bootstrap.svg"></code>
+  <code><img title="Javascript" height="25" src="icons/javascript.svg"></code>
+  <code><img title="JSON" height="25" src="icons/json.svg"></code>
+  <code><img title="React" height="25" src="icons/react-original.svg"></code>
+  <code><img title="Material UI" height="25" src="icons/materialui.svg"></code>
+  <code><img title="NodeJS" height="25" src="icons/nodejs.svg"></code>
+  <code><img title="npm" height="25" src="icons/npm.svg"></code>
+  <code><img title="Nodemon" height="25" src="icons/nodemon.svg"></code>
+  <code><img title="Express" height="25" src="icons/express.svg"></code>
+  <code><img title="MongoDB" height="25" src="icons/mongodb.svg"></code>
+  <code><img title="MySQL" height="25" src="icons/mysql.svg"></code>
+  <code><img title="Git" height="25" src="icons/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="icons/vscode.png"></code>
+  <code><img title="GitHub" height="25" src="icons/github.svg"></code>
   
 </p>
 <hr>
