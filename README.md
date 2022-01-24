@@ -31,23 +31,14 @@
   <code><img title="C" height="25" src="icons/c.svg"></code>
   <code><img title="C++" height="25" src="icons/cpp.svg"></code>
   <code><img title="Python" height="25" src="icons/python-original.svg"></code>
-  <code><img title="Problem Solving" height="25" src="icons/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="icons/html5.svg"></code>
   <code><img title="CSS" height="25" src="icons/css.svg"></code>
   <code><img title="Bootstrap" height="25" src="icons/bootstrap.svg"></code>
   <code><img title="Javascript" height="25" src="icons/javascript.svg"></code>
-  <code><img title="JSON" height="25" src="icons/json.svg"></code>
+  <code><img title="Typescript" height="25" src="icons/typescript.svg"></code>
   <code><img title="React" height="25" src="icons/react-original.svg"></code>
   <code><img title="Material UI" height="25" src="icons/materialui.svg"></code>
   <code><img title="NodeJS" height="25" src="icons/nodejs.svg"></code>
-  <code><img title="npm" height="25" src="icons/npm.svg"></code>
-  <code><img title="Nodemon" height="25" src="icons/nodemon.svg"></code>
-  <code><img title="Express" height="25" src="icons/express.svg"></code>
-  <code><img title="MongoDB" height="25" src="icons/mongodb.svg"></code>
-  <code><img title="MySQL" height="25" src="icons/mysql.svg"></code>
-  <code><img title="Git" height="25" src="icons/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="icons/vscode.png"></code>
-  <code><img title="GitHub" height="25" src="icons/github.svg"></code>
   
 </p>
 <hr>
