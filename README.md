@@ -22,6 +22,8 @@
   ⚡ Fun fact: I love to play and watch football.
   <br>
   📫 How to reach me: <a href="mailto: tshrgarg2010@gmail.com">tshrgarg2010@gmail.com</a>
+  <br>
+  My Portfolio: https://tushargarg-portfolio.netlify.app/
 </p>
 
 <hr>
