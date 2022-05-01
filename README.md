@@ -43,4 +43,7 @@
   <code><img title="NodeJS" height="35" src="icons/nodejs.svg"></code>
   
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Assassin1771&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
