@@ -22,8 +22,8 @@
   ⚡ Fun fact: I love to play and watch football.
   <br>
   📫 How to reach me: <a href="mailto: tshrgarg2010@gmail.com">tshrgarg2010@gmail.com</a>
-  <br>
-  My Portfolio: https://tushargarg-portfolio.netlify.app/
+  <!-- <br>
+  My Portfolio: https://tushargarg-portfolio.netlify.app/ -->
 </p>
 
 <hr>
@@ -44,6 +44,6 @@
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Assassin1771&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Assassin1771&layout=compact&hide=c++)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <hr>
