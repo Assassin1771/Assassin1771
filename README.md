@@ -10,6 +10,8 @@
   <code><a href="https://leetcode.com/Assassin7711/" title="Leetcode Profile"><img width="22" src="icons/leetcode.svg"> Leetcode</a></code>
 </h5>
 <br>
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Driasingh12&longCache=true&theme=vue-dark)](https://github.com/Assassin1771) <br> <hr>
+<br>
 <p align="center">
   Hi, I'm Tushar Garg, an avid Problem Solver and Web Developer.
   <br>
