@@ -17,7 +17,7 @@
   <br>
   💻 I love writing code and solving problems by finding their optimal solutions.
   <br>
-  📚 I’m currently diving deep into Python and Machine Learning.
+  📚 I’m currently diving deep into Backend Development.
   <br>
   ⚡ Fun fact: I love to play and watch football.
   <br>
