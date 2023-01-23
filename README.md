@@ -25,8 +25,6 @@
   <!-- <br>
   My Portfolio: https://tushargarg-portfolio.netlify.app/ -->
 </p>
-
-<hr>
 <!-- <h2 align="center">🔥 Languages & Frameworks🔥</h2>
 <br>
 <p align="center">
@@ -45,5 +43,3 @@
 </p>
  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Assassin1771&layout=compact&hide=c++)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<hr>
