@@ -6,8 +6,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/tushar-garg-65663b190/" title="LinkedIn Profile"><img width="22" src="icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/Assassin7711/" title="Leetcode Profile"><img width="22" src="icons/leetcode.svg"> Leetcode</a></code>
+    <a href="https://www.linkedin.com/in/tushar-garg-65663b190/" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/Assassin7711/" title="Leetcode Profile"><img width="22" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png"> Leetcode</a></code>
 </h5>
 <br>
 <p align="center">
@@ -17,7 +17,7 @@
   <br>
   💻 I love writing code and solving problems by finding their optimal solutions.
   <br>
-  📚 I’m currently diving deep into Backend Development.
+  📚 I’m currently diving deep into Web Development.
   <br>
   ⚡ Fun fact: I love to play and watch football.
   <br>
@@ -27,7 +27,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks🔥</h2>
+<!-- <h2 align="center">🔥 Languages & Frameworks🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="35" src="icons/c.svg"></code>
@@ -43,7 +43,7 @@
   <code><img title="NodeJS" height="35" src="icons/nodejs.svg"></code>
   
 </p>
-
+ -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Assassin1771&layout=compact&hide=c++)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <hr>
